@@ -1,23 +1,23 @@
 YouTube Clone – HTML & CSS
 
-A simple and responsive frontend clone of YouTube created using pure HTML and CSS. This project recreates the core layout of YouTube’s homepage, including the navbar, sidebar, and video grid.
+  A simple and responsive frontend clone of YouTube created using pure HTML and CSS. This project recreates the core layout of YouTube’s homepage, including the navbar, sidebar, and video grid.
 
 ⭐ Features
 
-Fully static frontend (no JavaScript)
+  1) Fully static frontend (no JavaScript)
 
-Clean YouTube-style navigation bar
+  2) Clean YouTube-style navigation bar
 
-Sidebar menu with icons
+  3) Sidebar menu with icons
 
-Responsive video grid using CSS Grid & Flexbox
+  4) Responsive video grid using CSS Grid & Flexbox
 
-Video cards with thumbnails, titles, and channel info
+  5) Video cards with thumbnails, titles, and channel info
 
-Modern, neat UI similar to the YouTube homepage
+  6) Modern, neat UI similar to the YouTube homepage
 
 🛠️ Tech Stack
 
-HTML5
+  1) HTML5
 
-CSS3
+  2) CSS3
